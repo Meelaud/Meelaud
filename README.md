@@ -1,17 +1,21 @@
 <h1 align="center">Welcome to my page!👋</h1> 
-<span align="center">
-    <h3 href="https://meelaudtoto.ca/"><img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&labelColor=%235a5a5a&color=%2338d430">
-</h3>
-</span>
+<div align="center">
+    <a href="www.linkedin.com/in/meelaud-totonchi">
+        <img alt="Portfolio:" src="https://img.shields.io/badge/Linkedin-Contact Me-blue">
+    </a>
+    <a href="https://meelaudtoto.ca/">
+        <img alt="Portfolio:" src="https://img.shields.io/badge/Portfolio:-Visit Meelaud's Website-green">
+    </a>
+</div>
+<p></p>
 <p align="center">
-    <span><a href="https://meelaudtoto.ca/" alt="Portfolio" src="">My Portfolio</a></span>
-    <span><a href="www.linkedin.com/in/meelaud-totonchi" alt="Linkedin" src="">Linkedin</a></span>
+    My name is Meelaud Totonchi and I'm a Digital Designer 🎨
 </p>
 <br>
 
 <h2>Tools and Abilities</h2>
 <p>
-    
+    <img alt="Portfolio" src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
 </p>
 
 <!--
