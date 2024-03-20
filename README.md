@@ -15,7 +15,9 @@
 
 <h2>Tools and Abilities</h2>
 <p>
-    <img alt="Portfolio" src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
+    <img alt="" src="https://img.shields.io/badge/Javascript-4B4B77?style=for-the-badge&logo=javascript">
+    <img alt="" src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe">
+    <img alt="" src="https://img.shields.io/badge/Figma-5B0BB5?style=for-the-badge&logo=figma">
 </p>
 
 <!--
